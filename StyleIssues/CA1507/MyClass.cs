@@ -1,3 +1,5 @@
+using System;
+
 namespace StyleIssues.CA1507
 {
     public static class MyClass
